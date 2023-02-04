@@ -3,9 +3,11 @@ RENCANA KONTEN DAFFA
 - Javacsript
   * ES6
   * Framework Javascript
-    ^ Angular JS
+    ^ Vue JS
     ^ React JS
+- Struktur Data Dasar
 - PHP Framework
   ^ Laravel
 - Interview
 - Vlog
+- Phyton

@@ -2,3 +2,6 @@ Daffa Resolusi
 - Konsisten untuk membuat konten 2x seminggu
 - Membuat platform untuk pengelolaan video
 - Membuat landing page paling sedikitnya satu bulan sekali
+
+- Kedepannya saya bercita cita ingin menguasai framework Laravel
+- Kedepannya saya ingin menjadi full stack developer

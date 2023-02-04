@@ -5,6 +5,7 @@ RENCANA KONTEN DAFFA
   * Framework Javascript
     ^ Vue JS
     ^ React JS
+    ^ Angular JS
 - Struktur Data Dasar
 - PHP Framework
   ^ Laravel

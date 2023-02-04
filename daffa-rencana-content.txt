@@ -1,6 +1,8 @@
 RENCANA KONTEN DAFFA
 
 - Javacsript
+  * ES6
+  * Framework Javascript
 - PHP Framework
 - Interview
 - Vlog
